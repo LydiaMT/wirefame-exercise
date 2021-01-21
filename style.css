@@ -3,11 +3,6 @@ main {
   margin: 0 auto;
 }
 
-body  {
-
-
-}
-
 nav {
   height: 100px;
   width: 100vw;
@@ -39,28 +34,11 @@ section {
   margin: 15px 0px;
 }
 
-
-
-#one image {
-  margin: 10px;
-  border: 10px;
-}
-
 #two, #three {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
-
-#three div{
-  height: 400px;
-  display: inline-block;
-}
-
-#left {
-  margin: 10px 0px;
-}
-
 
 h2 {
   font-size: 28px;
@@ -74,11 +52,13 @@ article {
 }
 
 button {
+  width: 300px;
   padding: 5px 30px;
-  margin-top: 5px;
+  margin-top: 2px;
   font-family: sans-serif;
   background-color: black;
   color: white;
+  border-radius: 5px;
 }
 
 button:hover {

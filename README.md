@@ -6,3 +6,4 @@ Sources:
 * [Eric Meyer CSS Reset](https://meyerweb.com/eric/tools/css/reset/)
 * [Place Holder Images](https://placeholder.com/)
 * [lorem ipsum](https://lipsum.com/)
+* [Justify Content](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content)
